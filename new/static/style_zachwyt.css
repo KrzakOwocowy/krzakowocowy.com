@@ -1,0 +1,85 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    background-image: url(images/soggy_cat.jpg);
+    background-repeat: repeat;
+    position: relative;
+    height: 100%;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+body::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(102, 0, 204, 0.85);
+    z-index: 1;
+}
+.content {
+    position: relative;
+    z-index: 2; 
+}
+h1{
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    top:-10%;
+    bottom: 0;
+    left: -10%;
+    right: 0;
+    margin: auto;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+}
+.homelink{
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    top:0;
+    right: 0;
+    margin: auto;
+    color: white;
+    text-decoration: none;
+}
+.homelink:hover{
+    color: red;
+}
+.contentcontent{
+    margin-left: 15%;
+    margin-right: 15%;
+    color: white;
+}
+h2{
+    position: static;
+    width: 100px;
+    height: 100px;
+    top:-80%;
+    bottom: 0;
+    left: -10%;
+    right: 0;
+    margin: auto;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 10%;
+}
+p, ul{
+    font-size: 20px;
+}
+.return{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}
+ul a{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+}

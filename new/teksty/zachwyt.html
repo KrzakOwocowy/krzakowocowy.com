@@ -1,0 +1,32 @@
+<html>
+<head>
+    <link rel="stylesheet" href="../static/style_zachwyt.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+    <script>
+    function PlayMusic() {
+
+    var play=document.getElementById("music");
+    play.play();
+    }
+
+    $(document).ready(function(){
+    setTimeout(PlayMusic,3000);
+    })
+    </script>
+</head>
+<body>
+    <div class="content">
+        <div class="contentcontent">
+            <br><br><br><br><br><br>
+            <p>Zachwyt? Czy właśnie powiedziałeś zachwyt? To bardzo zabawne ale to słowo to jednocześnie nazwa polsiego zespołu założonego w Oświęciumiu przez Miłosza Bolińskiego. Zachwyt łączy w sobie shoegaze, post-punk i noise pop tworząc unikalne na polskiej scenie muzycznej atmosferyczne, melancholijne brzmienie. Ich debiutancka EP-ka, zatytułowana po prostu "Zachwyt", od razu stała się kultowym nagraniem, czyniąc zespół fenomenem polskiego indie. "Wolniej" to pierwszy Long Play zachwytu, jest dalszym eksperymentem na formie ustanowionej podczas debiutu. Żeby być z tobą szczery, musiałbyś mieć sporo IQ żeby zrozumieć Zachwyt. Liczne nawiązania do popkultury pewnie przeszłyby niezauważone przez laika. I tak, posiadam tatuaż z domkiem zachwyt, ale go nie zobaczysz, rezerwuje go tylko do widoku pań
+            </p>
+            <audio id="music">
+                <source src="../static/music/czekam aż spadnie deszcz.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+              </audio> 
+            <br>
+            <a href="../teksty.html" class="return">Powrót do tekstów</a>
+        </div>
+    </div>
+</body>
+</html>
