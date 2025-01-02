@@ -8,7 +8,7 @@ body {
     background-image: url(images/soggy_cat.jpg);
     background-repeat: repeat;
     position: relative;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-family: "Comic Sans MS", "Comic Sans", Arial;
     min-height: 100%;
 }
 body::after {
