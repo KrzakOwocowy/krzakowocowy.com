@@ -70,3 +70,8 @@ h3{
     color: aquamarine;
     cursor: pointer;
 }
+
+.quote {
+    color:gold;
+    font-style: italic;
+}
