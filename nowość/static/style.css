@@ -1,0 +1,66 @@
+html {
+    background-color: black;
+    color: white;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.center-container {
+    text-align: center;
+    width: 100%;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 600%;
+    margin: 0 0 10px 0;
+}
+
+h2 {
+    font-size: 300%;
+    margin: 0; 
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 300%;
+    margin-right: 2%;
+}
+
+a:hover{
+    color: chocolate;
+}
+
+p, ul, li{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 170%;
+}
+
+ul{
+    font-size: 80%;
+}
+
+.return{
+    color: aqua;
+    font-size: 120%;
+}
+
+li{
+    font-size: 350%;
+    font-weight: bolder;
+    list-style-type: none;
+}
+
+h3{
+    color:green;
+    font-size: 200%;
+}
