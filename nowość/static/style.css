@@ -64,3 +64,9 @@ h3{
     color:green;
     font-size: 200%;
 }
+
+.green_link {
+    all: unset;
+    color: aquamarine;
+    cursor: pointer;
+}
