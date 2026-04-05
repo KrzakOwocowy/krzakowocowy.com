@@ -94,3 +94,15 @@ document.getElementById('start-btn').addEventListener('click', function() {
     document.getElementById('music-overlay').style.display = 'none';
     playRandomSong();
 });
+
+const volumeSlider = document.getElementById('volume-slider');
+
+audioPlayer.volume = volumeSlider.value;
+
+volumeSlider.addEventListener('input', function() {
+    audioPlayer.volume = this.value;
+});
+
+document.getElementById('skip-btn').addEventListener('click', function() {
+    playRandomSong();
+});

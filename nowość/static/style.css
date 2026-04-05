@@ -120,3 +120,23 @@ h3{
 #start-btn:hover {
     background-color: #158a3e;
 }
+
+.volume-control {
+    margin-top: 30px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.volume-control label {
+    font-size: 150%;
+    color: peru;
+    text-shadow: 1px 1px 2px black;
+}
+
+#volume-slider {
+    cursor: pointer;
+    width: 200px;
+}
