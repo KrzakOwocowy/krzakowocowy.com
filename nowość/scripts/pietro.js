@@ -8,7 +8,19 @@ const playlist = [
     "../static/pietro/runforcover.mp3",
     "../static/pietro/somekindoflove.mp3",
     "../static/pietro/theman.mp3",
-    "../static/pietro/wonderfulwonderful.mp3"
+    "../static/pietro/wonderfulwonderful.mp3",
+    "../static/pietro/arabella.mp3",
+    "../static/pietro/fireside.mp3",
+    "../static/pietro/iwantitall.mp3",
+    "../static/pietro/madsounds.mp3",
+    "../static/pietro/onefortheroad.mp3",
+    "../static/pietro/snapoutofit.mp3",
+    "../static/pietro/doiwannaknow.mp3",
+    "../static/pietro/iwannabeyours.mp3",
+    "../static/pietro/kneesocks.mp3",
+    "../static/pietro/no1partyanthem.mp3",
+    "../static/pietro/rumine.mp3",
+    "../static/pietro/whydyoucallme.mp3"
 ];
 
 const audioPlayer = new Audio();
