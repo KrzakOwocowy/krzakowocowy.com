@@ -121,6 +121,21 @@ h3{
     background-color: #158a3e;
 }
 
+.leave-btn {
+    padding: 15px 30px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    background-color: #1DB954;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.leave-btn:hover {
+    background-color: #158a3e;
+}
+
 .volume-control {
     margin-top: 30px;
     margin-bottom: 20px;
