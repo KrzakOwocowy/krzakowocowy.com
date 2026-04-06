@@ -5,10 +5,6 @@ html, body {
 }
 
 body {
-    background-image: url(images/soggy_cat.jpg);
-    background-repeat: repeat;
-    position: relative;
-    min-height: 100%;
     font-family: "Comic Sans MS", "Comic Sans", Arial;
 }
 body::after {
