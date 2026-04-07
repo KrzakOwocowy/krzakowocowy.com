@@ -1,14 +1,364 @@
 [
   {
     "week": 1,
-    "name": "album one",
-    "description": "description",
+    "name": "My Bloody Valentine - Loveless",
+    "description": "Klasyczny album, kluczowy dla każdego zainteresowanego hałaśliwą muzyką.",
     "link": "music",
     "musicFile": "file"
   },
   {
     "week": 2,
-    "name": "album one",
+    "name": "System of a Down - Toxicity",
+    "description": "Możliwe, że jedyna ciekawa rzecz w metalu post 2000, może przesadzam ale bardzo fun listen.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 3,
+    "name": "Neutral Milk Hotel - In the Aeroplane Over The Sea",
+    "description": "Najbardziej agresywnie brzmiąca muzyka akustyczna, folkowe klimaty, ładne melodie. Klasyczek",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 4,
+    "name": "The Police - Outlandos d'Amour",
+    "description": "Masterclass w graniu w trio, energetyczny, dużo rege.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 5,
+    "name": "Muse - Absolution",
+    "description": "Piękne połączenie 'klasycznie' brzmiących romantycznych utworów z ciężkimi brzmieniami i ładnymi balladami. Idealne na pierwszy kontakt z Muse.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 6,
+    "name": "Bill Evans - Portrait in Jazz",
+    "description": "Każda osoba w tym trio jest LOCKED IN.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 7,
+    "name": "Radiohead - OK Computer",
+    "description": "Bardzo wpływowy album, co by nie powiedzieć o autorach. Świetna produkcja i songwriting.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 8,
+    "name": "Kavinsky - Reborn",
+    "description": "Kluczowy album dla synthwave era krzaka.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 9,
+    "name": "Led Zeppelin - Led Zeppelin I",
+    "description": "Najlepszy blues-rock w historii. Odkąd to wyszło każdy rockowy artysta usiłował być tak cool jak to.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 10,
+    "name": "Nanga - Cisza w Bloku",
+    "description": "Poznałem przez pójście na ich koncert na ślepo, bardzo miłe zaskoczenie. Sporo różnorodnej muzyki z charakterem.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 11,
+    "name": "Peter Tosh - Equal Rights",
+    "description": "Był dla Bob Marley and the Wailers jak George Harrison dla Beatelsów. Świetne klasyczne reggae.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 12,
+    "name": "Zachwyt - Zachwyt",
+    "description": "Zachwyt.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 13,
+    "name": "Arctic Monkeys - Favourite Worst Nightmare",
+    "description": "Wspomnienia z bardzo specyficznego czasu w moim życiu, żaden inny album nie złapał dla mnie tego uczucia.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 14,
+    "name": "Dead Poet Society - Fission",
+    "description": "Wyszło dokładnie w momencie życia gdzie taka angsty muzyka była mile widziana i potrzebna. Mają bardzo fajną energie live.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 15,
+    "name": "Daria Zawiałow - Helsinki",
+    "description": "Najlepszy polski pop.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 16,
+    "name": "The Beatles - Revolver",
+    "description": "Niezwykle wpływowy album, początek psychodelicznych Beatelsów. Mnóstwo ciekawych trików studyjnych i klasycznego Beatelsowskiego pisania piosenek.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 17,
+    "name": "100 gecs - 10000 gecs",
+    "description": "Rock nie umarł, to jest dowód.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 18,
+    "name": "Muse - Origin of Symmetry",
+    "description": "Często uznawany za najlepszy album Muse. Insane wokale, neo-klasyczne harmonie, piskliwe gitary.",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 19,
+    "name": "Bob Marley and The Wailers - Legend",
+    "description": "Niby album greatest hits, ale jest tak wyładowany po brzegi bangierami, że trzeba posłuchać. Essential Reggae",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 20,
+    "name": "Weezer - Pinkerton",
+    "description": "Mało kto potrafi pokazać w tak wrażliwy sposób uczucie bycia brudnym. Dużo ludzi ",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 21,
+    "name": "Bill Wurtz Wildcard",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 22,
+    "name": "Royal Blood - Royal Blood",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 23,
+    "name": "Home - Odyssey",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 24,
+    "name": "The Beatles - Abbey Road",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 25,
+    "name": "Pink Floyd - The Wall",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 26,
+    "name": "The Killers - Wonderful Wonderful",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 27,
+    "name": "The Microphones - The Glow pt 2",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 28,
+    "name": "Magdalena Bay - Mercurial World",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 29,
+    "name": "Chet Baker - Chet Baker Sings",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 30,
+    "name": "Vylet Pony - Carousel",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 31,
+    "name": "Strachy na Lachy - Piła Tango",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 32,
+    "name": "King Crimson - In the Court of the Crimson King",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 33,
+    "name": "Massive Attack - Mezzaine",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 34,
+    "name": "George Harrison - All Things Must Pass",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 35,
+    "name": "Radiohead - The Bends",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 36,
+    "name": "John Holt - Police in Helicopter",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 37,
+    "name": "Slowdive - Just For a Day",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 38,
+    "name": "Franek Kimono - Franek Kimono",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 39,
+    "name": "Porter Robinson - Worlds",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 40,
+    "name": "Little Man, Figurine - The Names Of",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 41,
+    "name": "Soundgarden - Superunknown",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 42,
+    "name": "The Beatles - Please Please Me",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 43,
+    "name": "Pendulum - Hold Your Colour",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 44,
+    "name": "Michael Jackson - Off the Wall",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 45,
+    "name": "Have a Nice Life - Deathconsciousness",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 46,
+    "name": "Girl in Red - If I could make it go quiet",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 47,
+    "name": "Benek i Bimbronauci - Benek i Bimbronauci",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 48,
+    "name": "American Football - American Football",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 49,
+    "name": "Vylet Pony - Monarch of Monsters",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 50,
+    "name": "Muse - Showbiz",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 51,
+    "name": "Steel Pulse - Earth Crisis",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 52,
+    "name": "The Beatles - Rubber Soul",
     "description": "description",
     "link": "music",
     "musicFile": "file"
