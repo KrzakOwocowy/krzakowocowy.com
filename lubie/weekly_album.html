@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+    <head>
+        <link rel="stylesheet" href="../static/style.css" />
+    </head>
+    <body>
+        <div class="center-container">
+            <h1>Album tygodnia</h1>
+            <p>Nowa polecajka na każdy tydzień roku</p>
+            <h2>Album Tygodnia</h2>
+    
+            <h3 id="album-name">loading.......</h3>
+            <p id="album-description"></p>
+            <a id="album-link" href="#" target="_blank" style="display: none;">link</a>
+
+            <div class="weekly-controls" style="margin-top: 15px;">
+                <button id="weekly-play-btn" disabled>słuchaj</button>
+                
+                <div class="volume-control" style="margin-top: 10px;">
+                    <label for="weekly-volume-slider">głośność: </label>
+                    <input type="range" id="weekly-volume-slider" min="0" max="1" step="0.01" value="0.5">
+                </div>
+            </div>
+            <a href="muzyka_lubie.html" class="return">powrót do poprzedniej strony</a>
+        </div>
+        <script src="../scripts/album.js"></script>
+    </body>
+</html>

@@ -1,0 +1,16 @@
+[
+  {
+    "week": 1,
+    "name": "album one",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  },
+  {
+    "week": 2,
+    "name": "album one",
+    "description": "description",
+    "link": "music",
+    "musicFile": "file"
+  }
+]
