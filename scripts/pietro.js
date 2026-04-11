@@ -69,7 +69,30 @@ const playlist = [
     "../static/pietro/monstertruck.mp3",
     "../static/pietro/shelookslikefun.mp3",
     "../static/pietro/takeitback.mp3",
-    "../static/pietro/youcannevertell.mp3"
+    "../static/pietro/youcannevertell.mp3",
+    "../static/pietro/avenuec.mp3",
+    "../static/pietro/blindingflorence.mp3",
+    "../static/pietro/cosmiclove.mp3",
+    "../static/pietro/dogdaysareover.mp3",
+    "../static/pietro/drummingsong.mp3",
+    "../static/pietro/earlymorning.mp3",
+    "../static/pietro/florencehowl.mp3",
+    "../static/pietro/girlwithoneeye.mp3",
+    "../static/pietro/goodnews.mp3",
+    "../static/pietro/halfawyoverthehill.mp3",
+    "../static/pietro/homeagain.mp3",
+    "../static/pietro/hurricanedrunk.mp3",
+    "../static/pietro/imnotcallingyoualiar.mp3",
+    "../static/pietro/itsamiracle.mp3",
+    "../static/pietro/iwanttobesbbaby.mp3",
+    "../static/pietro/mandy.mp3",
+    "../static/pietro/mybabylovesme.mp3",
+    "../static/pietro/myboybuildscoffins.mp3",
+    "../static/pietro/rabbitheart.mp3",
+    "../static/pietro/sandra.mp3",
+    "../static/pietro/sthscomingup.mp3",
+    "../static/pietro/thetwoofus.mp3",
+    "../static/pietro/youvegotthelove.mp3"
 ];
 
 const audioPlayer = new Audio();
